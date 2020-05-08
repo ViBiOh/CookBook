@@ -12,7 +12,7 @@
 * Ajouter les oeufs
 * Ajouter progressivement le lait
 * Beurrer un plat et y déposer les fruits
-* Verser la préparation sur les fruits et cuire.
+* Verser la préparation sur les fruits et cuire
 
 # Cuisson
 
