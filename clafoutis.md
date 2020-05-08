@@ -3,7 +3,7 @@
 * 100g de farine
 * 100g de sucre
 * 25cl de lait 🥛
-* 3 oeufs 🥚🥚🥚
+* 2 oeufs 🥚🥚
 * 400g de fruits 🍒
 
 # Préparation
