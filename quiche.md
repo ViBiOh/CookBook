@@ -17,7 +17,7 @@
 * Ajouter les légumes, une pointe de sel et bien mélanger
 * Laisser cuire à couvert pendant 20min afin de blanchir les légumes
 
-## Préparation
+## Appareil
 
 * Mélanger les oeufs, la crème et le lait dans un recipient
 * Ajouter les 3/4 du fromage rapé
@@ -30,7 +30,7 @@
 ## Assemblage
 
 * Déposer les légumes sur la pâte
-* Verser la préparation sur les légumes
+* Verser l'appareil sur les légumes
 * Parsemer du reste de fromage rapé et cuire
 
 # Cuisson
