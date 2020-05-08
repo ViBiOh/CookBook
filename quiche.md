@@ -29,7 +29,7 @@
 
 ## Assemblage
 
-* Déposer les légumes sur la pâte
+* Déposer les légumes dans le plat
 * Verser l'appareil sur les légumes
 * Parsemer du reste de fromage rapé et cuire
 
