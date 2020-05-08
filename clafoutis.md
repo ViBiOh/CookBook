@@ -21,4 +21,4 @@
 
 # Cuisson
 
-35min au four à 180°c
+45min au four à 180°c
