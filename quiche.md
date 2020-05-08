@@ -1,11 +1,11 @@
 # Ingrédients
 
-* 300g de légumes (poireaux)
-* 3 oeufs
+* 300g de légumes (poireaux, fenouil) 
+* 3 oeufs 🥚🥚🥚
 * 20cl de crème
-* 20cl de lait
-* 60g de fromage rapé
-* 50g de beurre
+* 20cl de lait 🥛
+* 60g de fromage rapé 🧀
+* 50g de beurre 🧈
 * 1 pâte brisée
 
 # Préparation
