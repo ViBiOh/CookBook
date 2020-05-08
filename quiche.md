@@ -10,19 +10,28 @@
 
 # Préparation
 
+## Légumes
+
 * Laver et émincer les légumes
 * Dans un fait-tout, faire fondre à feu doux 40g de beurre
 * Ajouter les légumes, une pointe de sel et bien mélanger
 * Laisser cuire à couvert pendant 20min afin de blanchir les légumes
 
+## Préparation
+
 * Mélanger les oeufs, la crème et le lait dans un recipient
 * Ajouter les 3/4 du fromage rapé
+
+## Plat
+
 * Beurrer un plat à tarte et y étaler la pâte brisée
 * Piquer la pâte avec une fourchette de façon uniforme
 
-* Déposer les légumes cuits sur la pâte
-* Verser la préparation et parmser du reste de fromage
-* Faire cuire
+## Assemblage
+
+* Déposer les légumes sur la pâte
+* Verser la préparation sur les légumes
+* Parsemer du reste de fromage rapé et cuire
 
 # Cuisson
 
