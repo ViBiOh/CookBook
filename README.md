@@ -3,5 +3,5 @@
 My cooking recipes 👨‍🍳
 
 * [Clafoutis](clafoutis.md)
-* [Quiche](quich.md)
+* [Quiche](quiche.md)
 * [Moelleux au chocolat](moelleux_chocolat.md)
