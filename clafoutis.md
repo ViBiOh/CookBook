@@ -8,11 +8,16 @@
 
 # Préparation
 
+## Appareil
+
 * Mélanger la farine et le sucre
 * Ajouter les oeufs
 * Ajouter progressivement le lait
+
+## Assemblage
+
 * Beurrer un plat et y déposer les fruits
-* Verser la préparation sur les fruits et cuire
+* Verser l'appareil sur les fruits et cuire
 
 # Cuisson
 
