@@ -12,4 +12,5 @@ My cooking recipes 👨‍🍳
 
 * [Moelleux au chocolat 🍫](moelleux_chocolat.md)
 * [Clafoutis 🍒](clafoutis.md)
+* [Crêpes 🥞](crepes.md)
 * [Gaufres 🧇](gaufres.md)
