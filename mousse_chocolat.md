@@ -30,4 +30,4 @@
 
 # Réfrigération
 
-* 3h minimum au réfrigerateur
+* 3h minimum au réfrigérateur

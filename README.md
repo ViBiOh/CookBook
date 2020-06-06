@@ -8,6 +8,7 @@ My cooking recipes 👨‍🍳
 * [Gratin de courgettes 🥒](gratin_courgettes.md)
 * [Pain campagne 🥖](pain_campagne.md)
 * [Pizza 🍕](pizza.md)
+* [Pâte brisée 🥧](pate_brisee.md)
 
 ## Dessert 🧁
 
