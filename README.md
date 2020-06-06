@@ -10,6 +10,7 @@ My cooking recipes 👨‍🍳
 
 ## Dessert 🧁
 
+* [Mousse au chocolat 🍫](mousse_chocolat.md)
 * [Moelleux au chocolat 🍫](moelleux_chocolat.md)
 * [Clafoutis 🍒](clafoutis.md)
 * [Crêpes 🥞](crepes.md)
