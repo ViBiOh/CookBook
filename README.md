@@ -6,6 +6,7 @@ My cooking recipes 👨‍🍳
 
 * [Quiche 🥬](quiche.md)
 * [Gratin de courgettes 🥒](gratin_courgettes.md)
+* [Pain campagne 🥖](pain_campagne.md)
 * [Pizza 🍕](pizza.md)
 
 ## Dessert 🧁

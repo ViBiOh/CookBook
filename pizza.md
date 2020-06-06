@@ -1,10 +1,10 @@
 # Ingrédients
 
 * 350g de farine
-* 25cl d'eau tiède
+* 25cl d'eau tiède 💧
 * 2 cuillères à café de sel
 * 3 cuillères à soupe d'huile d'olive
-* 15g de levure fraîche ou un sachet si sèche
+* 10g de levure fraîche ou un sachet si sèche
 
 # Préparation
 
