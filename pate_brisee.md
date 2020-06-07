@@ -1,8 +1,9 @@
 # Ingrédients
 
 * 200 g de farine
-* 1⁄4 c. à café de sel
+* 1⁄4 c. à café de sel 🧂
 * 1 oeuf battu 🥚
+* 100 g de beurre froid 🧈
 * 1 cuillère à café de jus de citron 🍋
 * 2 cuillères à soupe d’eau glacée 💧
 

@@ -1,12 +1,12 @@
 # Ingrédients
 
-* 250g de farine 
+* 250g de farine
 * 1 sachet de levure chimique
 * 40g de sucre
 * 75g de beurre 🧈
 * 3 oeufs 🥚🥚🥚
 * 35cl de lait 🥛
-* Une pincée de sel
+* Une pincée de sel 🧂
 
 # Préparation
 

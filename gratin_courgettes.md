@@ -30,4 +30,4 @@
 
 # Cuisson
 
-35/40 min au four à 200°c
+Faire cuire au four à 200°c pendant 35/40 min

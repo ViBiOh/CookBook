@@ -1,6 +1,6 @@
 # Ingrédients
 
-* 300g de légumes (poireaux, fenouil) 
+* 300g de légumes (poireaux, fenouil)
 * 3 oeufs 🥚🥚🥚
 * 20cl de crème
 * 20cl de lait 🥛
@@ -35,4 +35,4 @@
 
 # Cuisson
 
-35-30min au four à 180°c
+Faire cuire au four à 180°c pendant 30/35 min

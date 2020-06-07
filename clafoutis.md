@@ -21,4 +21,4 @@
 
 # Cuisson
 
-45min au four à 180°c
+Faire cuire au four à 180°c pendant 45 min

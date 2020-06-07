@@ -1,27 +1,24 @@
 # Ingrédients
 
-* 350g de farine
+* 400g de farine
 * 25cl d'eau tiède 💧
-* 2 cuillères à café de sel
-* 3 cuillères à soupe d'huile d'olive
+* 1/2 cuillère à soupe de sel 🧂
+* 1 cuillère à soupe d'huile d'olive
+* 1 pincée de sucre
 * 10g de levure fraîche ou un sachet si sèche
 
 # Préparation
 
 ## Pâte
 
-* Emietter la levure dans l'eau tiède et mélanger avec une cuillère afin d'obtenir une texture homogène
-* Mettre la farine dans un cul de poule et y ajouter 2 cuillère à café de sel et mélanger grossièrement
-* Faire un puit au milieu de la farine, au centre du saladier
-* Ajouter 3 cuillères à soupe d'huile d'olive dans le puit
-* Verser l'eau tiède au centre du puit
+* Émietter la levure dans l'eau tiède, ajouter le sucre, l'huile d'olive et mélanger afin que la levure soit dissoute. Réserver 10min
+* Mettre la farine et le sel dans un saladier et mélanger grossièrement
+* Faire un puit au milieu de la farine et verser le mélange eau/levure
 * Remuez la préparation pendant 5min afin d'obtenir une texture homogène
-  * Bien gratter le fond afin de tout mélanger
-  * Ne pas hésiter à l'aplatir afin d'expulser le gaz
 * Saupoudrez légèrement de farine afin de décoller la pâte du saladier et former une boule
-* Couvrir avec un torchon et réserver dans un four éteint pendant 2 heures
+* Couvrir avec un torchon et réserver à température ambiante pendant 2 heures
 
-* Chasser l'air de la pâte en appuyant dessus, puis laisser reposer de nouveau 1 heure
+* Chasser l'air de la pâte en appuyant dessus, puis laisser reposer de nouveau 1 heure au réfrigérateur
 
 * Couper la pâte en deux pour une pate fine
 * Etaler la pâte avec la paume des mains ou un rouleau
@@ -29,4 +26,4 @@
 
 # Cuisson
 
-12/15 min au four à 220°c
+Faire cuire au four à 220°c pendant 15 min
