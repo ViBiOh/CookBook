@@ -1,8 +1,7 @@
 # Ingrédients
 
 * 200g de chocolat pâtissier 🍫
-* 25cl de crème liquide
-* 75cl de lait 🥛
+* 10cl de crème liquide
 * 100g de sucre
 * 6 oeufs 🥚🥚🥚🥚🥚🥚
 
@@ -14,7 +13,7 @@
 
 ## Appareil
 
-* Mélanger la crème et le lait et chauffer le mélange dans une casserole, juste avant le point d'ébullition
+* Mélanger la crème et chauffer le mélange dans une casserole, juste avant le point d'ébullition
 * Incorporer la crème au chocolat fondu et lier le mélange.
 * Ajouter les jaunes d'oeufs et fouetter énergiquement afin d'obtenir une ganache homogène.
 
