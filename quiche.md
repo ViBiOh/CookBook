@@ -6,7 +6,7 @@
 * 20cl de lait 🥛
 * 60g de fromage rapé 🧀
 * 50g de beurre 🧈
-* 1 pâte brisée
+* 1 [pâte brisée]((pate_brisee.md))
 
 # Préparation
 

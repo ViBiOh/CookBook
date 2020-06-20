@@ -20,7 +20,7 @@
 
 * Chasser l'air de la pâte en appuyant dessus, puis laisser reposer de nouveau 1 heure au réfrigérateur
 
-* Couper la pâte en deux pour une pate fine
+* Couper la pâte en deux pour une pâte fine
 * Etaler la pâte avec la paume des mains ou un rouleau
 * Garnir selon la convenance
 
