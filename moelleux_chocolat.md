@@ -1,4 +1,6 @@
-# Ingrédients
+# Moelleux au chocolat 🍫
+
+## Ingrédients
 
 - 200g de chocolat pâtissier 🍫
 - 125g de sucre
@@ -7,14 +9,14 @@
 - 4 oeufs 🥚🥚🥚🥚
 - 1 sachet de levure chimique
 
-# Préparation
+## Préparation
 
-## Chocolat
+### Chocolat
 
 - Faire fondre le chocolat au bain marie
 - Ajouter le beure coupé en petit morceaux sur la fin
 
-## Appareil
+### Appareil
 
 - Séparer les blancs des jaunes d'oeufs dans deux saladiers
 - Mélanger les jaunes avec le sucre et une cuillère à soupe d'eau
@@ -23,12 +25,12 @@
 - Ajouter progressivement la farine et la levure chimique
 - Monter les blancs en neige et les incorporer délicatement à la préparation
 
-## Plat
+### Plat
 
 - Beurrer légèrement un plat
 - Verser l'appareil et cuire
 
-# Cuisson
+## Cuisson
 
 30/35 min au four à 180°c
 

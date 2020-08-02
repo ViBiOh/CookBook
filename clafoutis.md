@@ -1,4 +1,6 @@
-# Ingrédients
+# Clafoutis 🍒
+
+## Ingrédients
 
 - 100g de farine
 - 100g de sucre
@@ -6,19 +8,19 @@
 - 2 oeufs 🥚🥚
 - 400g de fruits 🍒
 
-# Préparation
+## Préparation
 
-## Appareil
+### Appareil
 
 - Mélanger la farine et le sucre
 - Ajouter les oeufs
 - Ajouter progressivement le lait
 
-## Assemblage
+### Assemblage
 
 - Beurrer un plat et y déposer les fruits
 - Verser l'appareil sur les fruits et cuire
 
-# Cuisson
+## Cuisson
 
 Faire cuire au four à 180°c pendant 45 min

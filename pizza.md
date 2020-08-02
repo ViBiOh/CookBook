@@ -1,4 +1,6 @@
-# Ingrédients
+# Pizza 🍕
+
+## Ingrédients
 
 - 400g de farine
 - 25cl d'eau tiède 💧
@@ -7,9 +9,9 @@
 - 1 pincée de sucre
 - 10g de levure fraîche ou un sachet si sèche
 
-# Préparation
+## Préparation
 
-## Pâte
+### Pâte
 
 - Émietter la levure dans l'eau tiède, ajouter le sucre, l'huile d'olive et mélanger afin que la levure soit dissoute. Réserver 10min
 - Mettre la farine et le sel dans un saladier et mélanger grossièrement
@@ -24,6 +26,6 @@
 - Etaler la pâte avec la paume des mains ou un rouleau
 - Garnir selon la convenance
 
-# Cuisson
+## Cuisson
 
 Faire cuire au four à 220°c pendant 15 min

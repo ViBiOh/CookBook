@@ -1,4 +1,6 @@
-# Ingrédients
+# Gaufres 🧇
+
+## Ingrédients
 
 - 250g de farine
 - 1 sachet de levure chimique
@@ -8,9 +10,9 @@
 - 35cl de lait 🥛
 - Une pincée de sel 🧂
 
-# Préparation
+## Préparation
 
-## Appareil
+### Appareil
 
 - Faire fondre le beurre dans une casserole à deux doux
 - Dans un grand saladier, mettre la farine et y faire un puit.
@@ -20,6 +22,6 @@
 - Battre les blancs d'oeufs en neige et les incorporer à la pâte avec une maryse.
 - Si possible, laisser reposer la préparation une heure avant cuisson
 
-# Cuisson
+## Cuisson
 
 Dans le gaufrier 🧇

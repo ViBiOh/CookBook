@@ -1,4 +1,6 @@
-# Ingrédients
+# Pain campagne 🥖
+
+## Ingrédients
 
 - 500g de farine
 - 10g de sel fin 🧂
@@ -7,9 +9,9 @@
 - 28cl d'eau tiède 💧
 - 1 cuillère à soupe de lait 🥛
 
-# Préparation
+## Préparation
 
-## Pâte
+### Pâte
 
 - Emietter la levure dans un peu d'eau tiède si elle est fraîche
 - Mélanger la farine, le sel, le sucre et la levure dans un saladier
@@ -25,6 +27,6 @@
 
 - Badigeonner la pâte d'un peu de lait et parsemer d'un peu de farine
 
-# Cuisson
+## Cuisson
 
 Enfourner à froid et faire cuire au four à 240°c pendant 1 heure
