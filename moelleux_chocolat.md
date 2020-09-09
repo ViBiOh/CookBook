@@ -14,7 +14,7 @@
 ### Chocolat
 
 - Faire fondre le chocolat au bain marie
-- Ajouter le beure coupé en petit morceaux sur la fin
+- Ajouter le beurre coupé en petit morceaux sur la fin
 
 ### Appareil
 
