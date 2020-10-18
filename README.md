@@ -8,6 +8,7 @@ My cooking recipes 👨‍🍳
 - [Pain campagne 🥖](pain_campagne.md)
 - [Pizza 🍕](pizza.md)
 - [Pâte brisée 🥧](pate_brisee.md)
+- [Pâtes fraiches 🍝](pates_fraiches.md)
 - [Quiche 🥬](quiche.md)
 
 ## Dessert 🧁

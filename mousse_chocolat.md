@@ -3,20 +3,14 @@
 ## Ingrédients
 
 - 200g de chocolat pâtissier 🍫
-- 10cl de crème liquide
-- 100g de sucre
+- 80g de sucre
 - 6 oeufs 🥚🥚🥚🥚🥚🥚
 
 ## Préparation
 
 ### Chocolat
 
-- Faire fondre le chocolat au bain marie
-
-### Appareil
-
-- Mélanger la crème et chauffer le mélange dans une casserole, juste avant le point d'ébullition
-- Incorporer la crème au chocolat fondu et lier le mélange.
+- Faire fondre le chocolat au bain marie et laisser tiédir.
 - Ajouter les jaunes d'oeufs et fouetter énergiquement afin d'obtenir une ganache homogène.
 
 ### Meringue
