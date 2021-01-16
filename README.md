@@ -10,6 +10,7 @@ My cooking recipes 👨‍🍳
 - [Pâte brisée 🥧](pate_brisee.md)
 - [Pâtes fraiches 🍝](pates_fraiches.md)
 - [Quiche 🥬](quiche.md)
+- [Ratatouille 🍆🫑🍅](ratatouille.md)
 
 ## Dessert 🧁
 
