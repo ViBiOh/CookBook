@@ -12,7 +12,12 @@
 ### Appareil
 
 - Mélanger le tout en insérant progressivement le lait et la farine
+- La consistance doit être liquide, sinon ajouter de l'eau
+
+### Repos
+
+- Laisser reposer l'appareil une heure
 
 ## Cuisson
 
-Sur la crêpière 🥞
+A la poêle ou sur la crêpière 🥞
