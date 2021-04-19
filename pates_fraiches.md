@@ -2,8 +2,7 @@
 
 ## Ingrédients
 
-- 200g de farine fluide T55
-- 200g de semoule de blé fine (ou 200g de farine fluide T55)
+- 400g de farine fluide T55
 - 2 cuillères à café d'huile d'olive
 - 4 oeufs 🥚🥚🥚🥚
 

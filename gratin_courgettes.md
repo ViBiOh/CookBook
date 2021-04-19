@@ -6,7 +6,7 @@
 - 2 oeufs 🥚
 - 20cl de crème liquide
 - 80g de fromage rapé 🧀
-- 10g de beurre
+- 10g de beurre 🧈
 
 ## Préparation
 
