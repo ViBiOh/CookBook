@@ -21,7 +21,7 @@
 - Séparer les blancs des jaunes d'oeufs dans deux saladiers
 - Mélanger les jaunes avec le sucre et une cuillère à soupe d'eau
   - Utiliser une maryse plutôt qu'un fouet pour mélanger car l'appareil va se durcir
-- Ajouter le mélange chocolaté fondu et obtenir une pâte homogène
+- Ajouter le mélange chocolaté fondu refroidi et obtenir une pâte homogène
 - Ajouter progressivement la farine et la levure chimique
 - Monter les blancs en neige et les incorporer délicatement à la préparation
 
