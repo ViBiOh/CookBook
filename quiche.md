@@ -3,12 +3,21 @@
 ## Ingrédients
 
 - 300g de légumes (poireaux, fenouil)
+- 50g de beurre 🧈
+- 1 [pâte brisée](pate_brisee.md)
+
+### Avec appareil
+
 - 3 oeufs 🥚🥚🥚
 - 20cl de crème
 - 20cl de lait 🥛
 - 60g de fromage rapé 🧀
+
+### Avec béchamel
+
 - 50g de beurre 🧈
-- 1 [pâte brisée](pate_brisee.md)
+- 50g de farine
+- 50cl de lait 🥛
 
 ## Préparation
 
@@ -19,7 +28,7 @@
 - Ajouter les légumes, une pointe de sel et bien mélanger
 - Laisser cuire à couvert pendant 20min afin de blanchir les légumes
 
-### Appareil
+### Appareil (ou alors [sauce béchamel](bechamel.md))
 
 - Mélanger les oeufs, la crème et le lait dans un recipient
 - Ajouter les 3/4 du fromage rapé

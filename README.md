@@ -11,6 +11,7 @@ My cooking recipes 👨‍🍳
 - [Pâtes fraiches 🍝](pates_fraiches.md)
 - [Quiche 🥬](quiche.md)
 - [Ratatouille 🍆🫑🍅](ratatouille.md)
+- [Béchamel 🥛](bechamel.md)
 
 ## Dessert 🧁
 
