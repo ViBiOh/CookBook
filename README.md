@@ -4,6 +4,7 @@ My cooking recipes 👨‍🍳
 
 ## Dish 🍱
 
+- [Béchamel 🥛](bechamel.md)
 - [Gratin de courgettes 🥒](gratin_courgettes.md)
 - [Pain campagne 🥖](pain_campagne.md)
 - [Pizza 🍕](pizza.md)
@@ -11,7 +12,6 @@ My cooking recipes 👨‍🍳
 - [Pâtes fraiches 🍝](pates_fraiches.md)
 - [Quiche 🥬](quiche.md)
 - [Ratatouille 🍆🫑🍅](ratatouille.md)
-- [Béchamel 🥛](bechamel.md)
 
 ## Dessert 🧁
 
