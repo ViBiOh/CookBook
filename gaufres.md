@@ -14,7 +14,7 @@
 
 ### Appareil
 
-- Faire fondre le beurre dans une casserole à deux doux
+- Faire fondre le beurre dans une casserole à feux doux
 - Dans un grand saladier, mettre la farine et y faire un puit.
 - Dans le puit, ajouter le sel, le sucre, le beurre fondu refroidi et les jaunes d'oeufs.
 - Mélanger le tout.
