@@ -1,6 +1,4 @@
-# CookBook
-
-My cooking recipes 👨‍🍳
+# My cooking recipes 👨‍🍳
 
 ## Dish 🍱
 
