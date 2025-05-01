@@ -3,6 +3,7 @@
 ## Dish 🍱
 
 - [Béchamel 🥛](bechamel.md)
+- [Gratin dauphinois 🥔](gratin_dauphinois.md)
 - [Gratin de courgettes 🥒](gratin_courgettes.md)
 - [Pain campagne 🥖](pain_campagne.md)
 - [Pizza 🍕](pizza.md)
